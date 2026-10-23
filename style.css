@@ -1,0 +1,28 @@
+
+/*
+Theme Name: Appverse Child
+Description: Custom child theme for the Appverse WordPress Task 3.
+Author: Appverse Technologies Intern
+Template: twentytwentyfive
+Version: 1.0.0
+Text Domain: appverse-child
+*/
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+.wp-block-post-title {
+    color: #174a7e;
+}
+
+.wp-block-button__link {
+    border-radius: 8px;
+}
+
+.appverse-footer-note {
+    text-align: center;
+    padding: 16px;
+    color: #174a7e;
+    font-size: 14px;
+}
